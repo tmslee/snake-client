@@ -1,5 +1,5 @@
-const IP = '10.0.2.15'
-const PORT = 50541
+const IP = '135.23.222.131'
+const PORT = 50542
 const INPUT_MAP = {
   'w':'Move: up',
   'a':'Move: left',
