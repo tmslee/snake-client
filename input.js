@@ -26,6 +26,19 @@ const handleUserInput = function (key) {
       case 'd':
         connection.write('Move: right');
         break;
+      case 'e':
+        connection.write('Say: ssssssssssssss');
+        break;
+      case 'r':
+        connection.write('Say: SSSSSSSSSSsssss');
+        break;
+      case 't':
+        connection.write('Say: SSSsssSSS');
+        break;
+      case 'y':
+        connection.write('Say: sssssSSSSSSSSS');
+        break;
+      
     }
   }
 };
